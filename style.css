@@ -3,13 +3,10 @@ p{
     text-align: center;
   }
   
-  body {
+  /* body {
     font-family: Raleway;
     background-color: #ffffff;
-  }
-  
-  
-  
+  } */
   
 
   
@@ -26,7 +23,7 @@ p{
   }
   
   .gallery-image {
-    padding: 20px;
+    /* padding: 100px; */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -41,12 +38,12 @@ p{
   
   .img-box {
     box-sizing: content-box;
-    margin: 10px;
+    margin: 15px;
     height: 250px;
     width: 350px;
     overflow: hidden;
     display: inline-block;
-    color: white;
+    color: rgb(202, 198, 198);
     position: relative;
     background-color: white;
   }
