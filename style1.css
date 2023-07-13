@@ -5,7 +5,7 @@ body{
     background-image: url(image/bg.jpeg) ;
 }
 body{
-    font-family: cursive;
+    font-family: Georgia;
 }
 .input{
     text-align: center;
@@ -14,7 +14,7 @@ body{
 input[type="text"]{
     height: 50px;
     width:500px;
-    font-family: cursive;
+    font-family: Georgia;
     font-weight: bold;
     background: #faf9f9;
     font-size: 20px;
@@ -26,7 +26,7 @@ input[type="text"]{
 input[type="submit"]{
     height: 50px;
     width:100px;
-    font-family: cursive;
+    font-family: Georgia;
     font-weight: bold;
     background: #c54205b0;
     font-size: 20px;
@@ -41,7 +41,7 @@ input[type="submit"]{
         position:relative;
         color: white;
       margin: auto;
-      font-family:cursive;
+      font-family:Georgia;
       font-size: 20px;
       font-weight: bold;
       height: auto;
