@@ -84,3 +84,12 @@ h1 {
     font-family: 'Rubik Bubbles', sans-serif; /* Change 'Roboto' to the desired font */
     color: rgb(21, 19, 21);
 }
+
+.home-link {
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
