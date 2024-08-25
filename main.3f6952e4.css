@@ -21,7 +21,7 @@ table {
     font-family: cursive;
   }
   
-  tr:nth-child(1) {
+  th {
     background-color: #8cddd2;
   }
 
